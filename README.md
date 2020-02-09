@@ -1,9 +1,9 @@
 # Sobey’s Sales Data Analysis 
 
-# Algorithm Used : Clustering Analysis
-# Programming Language : R programming
+Algorithm Used : Clustering Analysis
+Programming Language : R programming
 
-# Procedure : 
+Procedure : 
 
 o Analyzed customer and product sales data of Sobey’s to understand customer purchase patterns & product characteristics.
 o The data of both customers and products were initially cleaned and then divided into segments using centroid based K-means     clustering analysis.
